@@ -2,4 +2,4 @@ homepage: "https://useinsider.com/"
 documentation: "https://developers.useinsider.com/docs"
 versions:
   - sha: d66079c2d95be886c79a0b367bb2f7ddd2bf1eab
-    changeNotes: First release cart amount identifier.
+    changeNotes: First release cart products identifier.
